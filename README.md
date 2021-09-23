@@ -3,6 +3,10 @@
 안녕하세요,
 우리 취업, 이직, 업무 뽀개고 일잘러로 거듭납시다!
 
+---
+
+- [Client-WAS-WEB-Server,DBMS](Client-WAS-WEB-Server,DBMS)
+
 
 # CS 기본 지식에 대해 학습한 것들을 빡시게!
 
