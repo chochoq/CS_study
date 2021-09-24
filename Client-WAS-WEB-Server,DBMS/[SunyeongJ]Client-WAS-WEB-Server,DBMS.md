@@ -30,19 +30,19 @@
 
     클라이언트에게 중복되는 요청을 받을 때마다 서버까지 가져가서 요청을 처리하려면 자원 낭비, 속도 저하 등의 문제가 생길 수 있다. 이 때문에 프록시를 중간에 두고 중복되는 요청은 프록시 서버에서 처리한다.
 
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd942f9c-acf4-452c-923d-aac580d22ee9/Untitled.png)
+    
 
     - **Forward proxy**
 
         서버에 접근하는 사용자들의 아이피 주소를 숨길 수 있도록 포워드 프록시를 통하여 데이터를 주고받게 한다.
 
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac6087bf-ccab-4f32-b587-14924eb45823/Untitled.png)
+        
 
     - **Reverse proxy**
 
         웹 서버의 역할 중 하나, 서버에 접근하는 사용자들에게 서버를 숨겨 내부 구조 등 보안상 중요한 것들을 보이지 않게 해 준다.
 
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/996d30df-3cf1-4391-82c6-76af78cf85b0/Untitled.png)
+        
 
 - **Load balancing**
 
